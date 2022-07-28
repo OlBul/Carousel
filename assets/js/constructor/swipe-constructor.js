@@ -1,4 +1,4 @@
-import Carousel from "./carousel-constructor.js";
+import Carousel from './carousel-constructor.js';
 
 function SwipeCarousel() {
   Carousel.apply(this, arguments);

@@ -1,4 +1,4 @@
-import Carousel from "./carousel-class.js";
+import Carousel from './carousel-class.js';
 
 class SwipeCarousel extends Carousel {
 
